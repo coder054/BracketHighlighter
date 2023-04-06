@@ -1,9 +1,9 @@
 {
-	"name": "brackethighlighter",
-	"displayName": "Bracket Highlighter",
-	"publisher": "Durzn",
+	"name": "brackethighlighter2",
+	"displayName": "Bracket Highlighter 2",
+	"publisher": "coder054",
 	"repository": {
-		"url": "https://github.com/Durzn/BracketHighlighter"
+		"url": "https://github.com/coder054/BracketHighlighter"
 	},
 	"icon": "assets/icon.png",
 	"readme": "README.md",
